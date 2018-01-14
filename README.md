@@ -1,0 +1,1 @@
+A implementation of a blockchain in PHP for studies
