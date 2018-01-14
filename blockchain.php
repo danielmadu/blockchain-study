@@ -32,7 +32,7 @@ class Blockchain {
 	}
 
 	/**
-	 * Verify if is the Blockchai is valid
+	 * Verify if is the Blockchain is valid
 	 */
 	public function isValid() {
 		for ($i = 1; $i < count($this->blocks); $i++) {
